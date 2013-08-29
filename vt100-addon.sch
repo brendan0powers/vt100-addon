@@ -6999,6 +6999,9 @@ Brendan Powers (C) 2013 CC BY-SA		</text>
 </nets>
 </sheet>
 </sheets>
+<errors>
+<approved hash="204,1,104.14,-30.48,U$1,AIN0,,,,"/>
+</errors>
 </schematic>
 </drawing>
 <compatibility>
